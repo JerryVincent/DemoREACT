@@ -1,0 +1,9 @@
+.reactStyle{
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.st2{
+    color: green;
+}
